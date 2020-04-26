@@ -26,7 +26,7 @@ SECRET_KEY = '&x^t46ysmise7lr**5zfze==c0v%b(7emo^x#%u^azzg=%+^3z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bkocii.pythonanywhere.com']
 
 
 # Application definition
